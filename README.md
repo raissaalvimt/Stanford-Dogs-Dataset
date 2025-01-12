@@ -6,11 +6,10 @@
 The Stanford Dogs Dataset is a comprehensive collection of images and annotations of 120 different dog breeds. It’s designed for machine learning and computer vision tasks, such as image classification and object detection.
 
 
-For more information, visit the official dataset website:
+For more information, visit the official dataset website:  
 
-👉 Stanford Dogs Dataset Website
+👉 [Stanford Dogs Dataset Website](http://vision.stanford.edu/aditya86/ImageNetDogs/)
 
-If you use this dataset in a publication, please cite it as described on the website.
 
 📁 File Information
 
@@ -89,22 +88,13 @@ stanford-dogs-dataset/
 📄 **train_info.mat**  
    └── 🏷️ Labels and IDs corresponding to training data  
 
+💖 Acknowledgments and Thanks
+A huge thanks to all contributors who made this dataset possible.
+Special gratitude goes to Aditya Khosla and the Stanford University Vision Lab for curating and maintaining this valuable resource.
 
-📧 Contact
+We also appreciate the open-source community for their tools and libraries, which help us explore datasets like this one.
 
-For questions or additional information, reach out to:
+If you use this dataset or found it helpful, feel free to ⭐ star this repository and share your work with us!
+Together, we can build amazing machine learning projects. 🚀🐾
 
-Aditya Khosla
-
-✉️ Email: aditya86@cs.stanford.edu
-
-
-📝 Citation
-
-If you use this dataset, please cite it as described on the official website.
-
-
-🌟 Thank You for Using the Stanford Dogs Dataset!
-
-Bring your models to life with this incredible collection of furry friends! 🐕✨
 

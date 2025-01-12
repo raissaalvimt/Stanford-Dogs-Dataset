@@ -63,27 +63,32 @@ Contains labels and IDs corresponding to images in the feature matrix.
 
 stanford-dogs-dataset/
 
-├── images/               # Dog breed images
+📁 **images/**  
+   ├── 🐕 **breed_1/**              # Images for breed 1  
+   ├── 🐕 **breed_2/**              # Images for breed 2  
+   ├── ...                          # Images for other breeds  
 
-│   ├── breed_1/          # Images for breed 1
+📁 **annotations/**  
+   └── 📝 **Bounding Box Annotations**   # Bounding box annotations for images  
 
-│   ├── breed_2/          # Images for breed 2
+📄 **file_list.mat**  
+   └── 🗂️ List of all files in the dataset  
 
-│   ├── ...
+📄 **train_list.mat**  
+   └── 🏋️ List and labels of all training images  
 
-├── annotations/          # Bounding box annotations
+📄 **test_list.mat**  
+   └── 🧪 List and labels of all test images  
 
-├── file_list.mat         # List of all files
+📄 **train_data.mat**  
+   └── 📊 Feature matrix (after applying histogram intersection kernel)  
 
-├── train_list.mat        # Training images and labels
+📄 **test_data.mat**  
+   └── 📊 Feature matrix (after applying histogram intersection kernel)  
 
-├── test_list.mat         # Test images and labels
+📄 **train_info.mat**  
+   └── 🏷️ Labels and IDs corresponding to training data  
 
-├── train_data.mat        # Feature matrix (after kernel)
-
-├── test_data.mat         # Feature matrix (after kernel)
-
-└── train_info.mat        # Labels and IDs
 
 📧 Contact
 
